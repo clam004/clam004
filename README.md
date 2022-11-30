@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clam004
-- 👀 I’m interested in conversational AI, NLP, continual learning and reinforcement learning
+- 👀 I’m interested in conversational AI, external neural memory, continual learning and reinforcement learning
 - 🌱 I’m currently learning Neural Text Generation Control
 - 💞️ I’m looking to collaborate on any of the topics above
 - 📫 How to reach me @carsonlam on twitter
