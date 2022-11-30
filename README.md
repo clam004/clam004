@@ -5,8 +5,11 @@
 - 📫 How to reach me @carsonlam on twitter
 
 *Tools*
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" style="max-width: 100%;">
+<p dir="auto">
+  <a href="#">
+    <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" style="max-width: 100%;">
+  </a>
+</p>
 
 <!---
 clam004/clam004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
