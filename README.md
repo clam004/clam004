@@ -9,7 +9,7 @@ My scientific passion and engineering focus is on artificial intelligence, effic
     <img align="left" alt="Python" width="92px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pytorch.svg" style="max-width: 100%;">
   </a>
    <a href="#">
-    <img align="left" alt="Python" width="92px" src="https://banner2.cleanpng.com/20180430/clw/kisspng-go-programming-language-computer-programming-progr-programming-language-5ae6e800efbb03.589382971525082112982.jpg" style="max-width: 100%;">
+    <img align="left" alt="Python" width="92px" src="https://plugins.jetbrains.com/files/12875/130789/icon/pluginIcon.png" style="max-width: 100%;">
   </a>
 </p>
 
