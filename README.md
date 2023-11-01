@@ -1,4 +1,4 @@
-My scientific passion and engineering focus is on artificial intelligence, efficient methods for fine-tuning pretrained large language models using reinforcement learning from human feedback, model augmentation with up to date knowledge and methods for long term memory beyond longer token context windows
+My scientific passion and engineering focus is on artificial intelligence, methods for fine-tuning pretrained large language models, reinforcement learning from human feedback, model augmentation with up to date knowledge and methods for long term memory beyond longer token context windows
 
 *Tools*
 <p dir="auto">
