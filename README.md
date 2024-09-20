@@ -1,4 +1,6 @@
-My scientific passion and engineering focus are on post-training (ie finetuning & reinforcement learning) of pretrained vision & language models, knowledge augmentation (ie RAG), long term & episodic memory and commmunicating these concepts in a non-intimidating, empathetic, yet technically meaningful way.
+# Hello fellow human :wave:
+
+I am an AI/ML engineer and former practicing physician working in generative AI Ops. My scientific passion is in deep reinforcement learning of pre-trained neural networks and imbuing these models with long term episodic memory. I enjoy commmunicating these concepts in a non-intimidating, empathetic, yet technically meaningful way.
 
 *Tools*
 <p dir="auto">
