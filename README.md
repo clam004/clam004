@@ -1,6 +1,6 @@
 # Hello fellow human :wave:
 
-I am an AI/ML engineer and former practicing physician working in generative AI Ops. My scientific passion is in deep reinforcement learning of pre-trained neural networks and imbuing these models with long term episodic memory. I enjoy commmunicating these concepts in a non-intimidating, empathetic, yet technically meaningful way.
+I am an AI/ML engineer and former practicing physician working in generative AI Ops. My scientific passion is in deep reinforcement learning of pre-trained neural networks and imbuing these models with long term episodic memory. I enjoy communicating these concepts in an empathetic, yet technically meaningful way.
 
 *Tools*
 <p dir="auto">
